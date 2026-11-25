@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gece_mavisi_bg">#0A1128</color>
+    <color name="gece_mavisi_card">#121E42</color>
+    <color name="gece_mavisi_accent">#00D4FF</color>
+    <color name="sonsuz_altin">#FFD166</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+</resources>

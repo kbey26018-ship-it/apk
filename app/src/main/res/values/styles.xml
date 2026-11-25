@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SonsuzYolArkadasi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/gece_mavisi_bg</item>
+        <item name="colorPrimary">@color/gece_mavisi_accent</item>
+        <item name="colorSecondary">@color/sonsuz_altin</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+</resources>
